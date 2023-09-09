@@ -199,7 +199,7 @@
                                                 </div>
                                             </div>
                                             <!-- /.panel -->
-                                            <p class="text-muted text-center"><small>Nambala Secondary©2023 |POWERED By <a href="https://www.facebook.com/micfromafricaa/">NJOLOMBA </a></small> </p>
+                                            <p class="text-muted text-center"><small>Mwavi  Secondary©2023 |POWERED By <a href="https://www.facebook.com/micfromafricaa/">NJOLOMBA </a></small> </p>
                                         </div>
                                         <!-- /.col-md-11 -->
                                     </div>
@@ -229,9 +229,7 @@
         <script src="js/lobipanel/lobipanel.min.js"></script>
         <script src="js/iscroll/iscroll.js"></script>
 
-        <!-- ========== PAGE JS FILES ========== -->
-
-        <!-- ========== THEME JS ========== -->
+      
         <script src="js/main.js"></script>
         <script>
             $(function(){
@@ -239,8 +237,7 @@
             });
         </script>
 
-        <!-- ========== ADD custom.js FILE BELOW WITH YOUR CHANGES ========== -->
-    <!-- Code injected by live-server -->
+
 <script>
 	// <![CDATA[  <-- For SVG support
 	if ('WebSocket' in window) {
