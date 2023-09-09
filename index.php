@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -17,15 +15,15 @@
     <body class="">
         <div class="main-wrapper">
 
-            <!-- <div class="">
+            <div class="">
                 <div class="row"><center><img src="images/Nambala school logo.jpg" width = "50px"></center>
-  -->
+ 
                     <div class="col-lg-6 visible-lg-block">
                         
 
 <section class="section">
     
-                            <!-- <div class="row mt-40">
+                            <div class="row mt-40">
                                 <div class="col-md-10 col-md-offset-1 pt-50">
 
                                     <div class="row mt-30 ">
@@ -63,7 +61,7 @@
 
                                                 </div>
                                             </div>
-                                            <!-- /.panel -->
+                                             
 
                                         </div>
                                         <!-- /.col-md-11 -->
@@ -83,10 +81,10 @@
                     <div class="col-md-4 col-md-offset-4">
                         <div class="panel login-box">
                             <div class="panel-heading">
-                                <div class="panel-title text-center"><img src="images/Nambala school logo.jpg"><br>
+                                <div class="panel-title text-center"><img src="images/School logo.png"><br>
                                 <p style="font-size: 1px;"><h3>Ministry of Education </h3><br></style>
-                                Nambala Secondary School<br>
-                                P.O.Box 830173, Mumbwa District<br>
+                                Mwavi Secondary School<br>
+                                P.O.Box 64, Luangwa<br>
                                 End of Term Results
                                
                                     <h5><strong>Note:</strong>Wrong examinaton number will lead to lose of results</h5>
@@ -144,49 +142,7 @@
             <!-- /. -->
 
         </div>
-        <!-- /.main-wrapper -->
-                    <!-- <div class="row mt-40">
-                                <div class="col-md-10 col-md-offset-1 pt-50">
-
-                                    <div class="row mt-30 ">
-                                        <div class="col-md-11">
-                                            <div class="panel">
-                                                <div class="panel-heading">
-                                                    <div class="panel-title text-center">
-                                                        <h4>Pupils</h4>
-                                                    </div>
-                                                </div>
-                                                <div class="panel-body p-20">
-
-                                                    <div class="section-title">
-                                                        <p class="sub-title">
-                                                            <ol>
-                                                                <li>Make sure you provide a valid examnination number.</li>
-                                                                <li>These results will only be visible for a term, take screenshots for records.</li>
-                                                                <li>Please check results according to your class.</li> 
-                                                            </ol>
-                                                        </p>
-                                                    </div>
-
-                                                    <form class="form-horizontal" method="post">
-                                                        <div class="form-group">
-                                                            <label for="inputEmail3" class="col-sm-6 control-label">Are you a pupil looking for your end of term results,well</label>
-                                                            <div class="btn btn-primary fa fa-check">
-                                                               <center><a href="find-result.php">Click here</a></center>
-                                                            </div>
-                                                        </div>
-
-                                                    </form>
-
-
-
-
-                                                </div>
-                                            </div>
-                                            <!-- /.panel -->
-<!-- 
-                                        </div>
-                                        <!-- /.col-md-11 -->
+                                       
                                     </div>
                                     <!-- /.row -->
                                 </div>
